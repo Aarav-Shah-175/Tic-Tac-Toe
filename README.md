@@ -19,7 +19,7 @@ To get started with the Tic-Tac-Toe game, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/Aarav-Shah-175/tic-tac-toe.git
    ```
 
 2. **Navigate to the Project Directory:**
