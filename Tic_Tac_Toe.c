@@ -59,7 +59,7 @@ int main() {
   char instruction;
   while (1) {
     fill();
-    printf("\n\n1. Press Enter to start a new gamme.\n2. Press E to exit.\n-->");
+    printf("\n\n1. Press Enter to start a new game.\n2. Press E to exit.\n-->");
     scanf("%c", & instruction);
     if (instruction == '\n') {
 
